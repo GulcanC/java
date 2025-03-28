@@ -8,7 +8,7 @@ public class VariableTut { // this is class
         int data=50; // instance variable
 
         // addition of two numbers
-        int a =10;
+        int a=10;
         int b=20;
         int c=a+b;
         int d=b-a;
