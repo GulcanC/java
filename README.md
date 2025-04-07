@@ -1,11 +1,11 @@
-### PROJECT 1) BANK ACCOUNT APPLICATION 👋
+### 👋 PROJECT 1) BANK ACCOUNT APPLICATION 
 🌼 Welcome message to user
 
 🌼 Deposit
 
 🌼 Withdraw
 
-🌼 Get previous transation
+🌼 Get previous transaction
 
 🌼 Show menu
 
