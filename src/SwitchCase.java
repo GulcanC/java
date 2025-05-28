@@ -11,5 +11,21 @@ public class SwitchCase {
             default:
                 System.out.println("There is no number");
         }
+
+
+        int number2 = 1;
+        switch(number2) {
+            case 20:
+                System.out.println("The number is smaller than 25");
+                break;
+            case 25:
+                System.out.println("the number is 25");
+                break;
+            case 30:
+                System.out.println("The number is greater than 25");
+                break;
+            default:
+                System.out.println("The number is 0");
+        }
     }
 }
